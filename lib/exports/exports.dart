@@ -1,0 +1,14 @@
+export 'package:flutter/cupertino.dart';
+export 'package:flutter/foundation.dart';
+export 'package:get/get.dart';
+export 'package:google_fonts/google_fonts.dart';
+export 'package:zekademy/configs/constants/app_colors.dart';
+export 'package:zekademy/views/bottom_nav/bottom_nav_controller.dart';
+export 'package:zekademy/views/activities/activities_view.dart';
+export 'package:zekademy/views/create/create_view.dart';
+export 'package:zekademy/views/home/home_view.dart';
+export 'package:zekademy/views/profile/profile_view.dart';
+export 'package:zekademy/components/app_text.dart';
+export 'package:zekademy/components/user_item.dart';
+export 'package:zekademy/models/user_model.dart';
+export 'package:zekademy/components/app_button.dart';
