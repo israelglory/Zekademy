@@ -1,6 +1,6 @@
 # Zekademy🔥 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Twitter Follow](https://img.shields.io/twitter/follow/kheeng_splash?style=social)](https://twitter.com/kheeng_splash)
 
-A Simple application that fetch users from the internet. The state management used for this project is GetX. You can simply test buy downloading the .apk file.
+A Simple application that fetch users from the internet. The state management used for this project is GetX and it is responsive across all devices. You can simply test buy downloading the .apk file.
 
 Star⭐ the repo if you like what you see😉.
 
