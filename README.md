@@ -15,8 +15,8 @@ Star⭐ the repo if you like what you see😉.
 ## 📸 ScreenShots
 
 
- <img src="ss/first.png" width="400">  <img src="ss/second.png" width="400"> 
- <img src="ss/third.png" width="400">  <img src="ss/fourth.png" width="400">
+ <img src="ss/first.PNG" width="400">  <img src="ss/second.PNG" width="400"> 
+ <img src="ss/third.PNG" width="400">  <img src="ss/fourth.PNG" width="400">
 
 
 ## 🌗 Dark theme
