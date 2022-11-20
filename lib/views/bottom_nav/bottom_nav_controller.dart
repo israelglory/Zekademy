@@ -2,7 +2,7 @@ import 'package:zekademy/exports/exports.dart';
 import 'package:zekademy/views/people/people_view.dart';
 
 class BottomNavController extends GetxController {
-  int selectedIndex = 1;
+  int selectedIndex = 0;
 
   void inItstate() {}
 
