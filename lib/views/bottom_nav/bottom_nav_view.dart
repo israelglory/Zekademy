@@ -67,7 +67,7 @@ class BottomNavigation extends StatelessWidget {
               ),
               BottomNavigationBarItem(
                 icon: Icon(
-                  CupertinoIcons.chat_bubble,
+                  CupertinoIcons.heart,
                 ),
                 label: 'Activities',
               ),
